@@ -11,11 +11,12 @@ const formatSize = (bytes) => {
   if (bytes < 1024 * 1024) return `${Math.max(1, Math.round(bytes / 1024))} KB`;
   return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
 };
-const safeUrl = (url) => encodeURI(url);
+const assetBase = import.meta.env.BASE_URL || '/';
+const safeUrl = (url) => encodeURI(`${assetBase}${url.replace(/^\/+/, '')}`);
 const shortName = (name) => name.replace(/\.[^/.]+$/, '');
 
 async function loadAssets() {
-  const response = await fetch('/assets/manifest.json');
+  const response = await fetch(`${assetBase}assets/manifest.json`);
   if (!response.ok) throw new Error('تعذر تحميل فهرس الحقيبة المهنية');
   state.assets = await response.json();
   $('#total-count').textContent = state.assets.length;
