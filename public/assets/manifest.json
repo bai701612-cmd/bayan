@@ -1,0 +1,848 @@
+[
+  {
+    "id": "CV/WhatsApp Image 2026-11-03 at 12.35.41 PM.jpeg",
+    "section": "CV",
+    "name": "WhatsApp Image 2026-11-03 at 12.35.41 PM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 175877,
+    "url": "/assets/portfolio/CV/WhatsApp Image 2026-11-03 at 12.35.41 PM.jpeg"
+  },
+  {
+    "id": "CV/WhatsApp Image 2026-11-05 at 9.42.53 AM.jpeg",
+    "section": "CV",
+    "name": "WhatsApp Image 2026-11-05 at 9.42.53 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 238800,
+    "url": "/assets/portfolio/CV/WhatsApp Image 2026-11-05 at 9.42.53 AM.jpeg"
+  },
+  {
+    "id": "CV/ats.docx",
+    "section": "CV",
+    "name": "ats.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 38516,
+    "url": "/assets/portfolio/CV/ats.docx"
+  },
+  {
+    "id": "CV/cv.pdf",
+    "section": "CV",
+    "name": "cv.pdf",
+    "ext": "pdf",
+    "kind": "document",
+    "size": 226940,
+    "url": "/assets/portfolio/CV/cv.pdf"
+  },
+  {
+    "id": "افتار/3.mp4",
+    "section": "افتار",
+    "name": "3.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 2523548,
+    "url": "/assets/portfolio/افتار/3.mp4"
+  },
+  {
+    "id": "افتار/WhatsApp Image 2026-11-05 at 10.06.03 AM.jpeg",
+    "section": "افتار",
+    "name": "WhatsApp Image 2026-11-05 at 10.06.03 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 140610,
+    "url": "/assets/portfolio/افتار/WhatsApp Image 2026-11-05 at 10.06.03 AM.jpeg"
+  },
+  {
+    "id": "افتار/افتار.png",
+    "section": "افتار",
+    "name": "افتار.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1792844,
+    "url": "/assets/portfolio/افتار/افتار.png"
+  },
+  {
+    "id": "افتار/جاهز _HD.mp4",
+    "section": "افتار",
+    "name": "جاهز _HD.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 20147327,
+    "url": "/assets/portfolio/افتار/جاهز _HD.mp4"
+  },
+  {
+    "id": "افتار/جاهز افتار.mp4",
+    "section": "افتار",
+    "name": "جاهز افتار.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 5661116,
+    "url": "/assets/portfolio/افتار/جاهز افتار.mp4"
+  },
+  {
+    "id": "افتار/فيديو بدون عنوان.mp4",
+    "section": "افتار",
+    "name": "فيديو بدون عنوان.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 4053929,
+    "url": "/assets/portfolio/افتار/فيديو بدون عنوان.mp4"
+  },
+  {
+    "id": "باركود/باركود.png",
+    "section": "باركود",
+    "name": "باركود.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 147167,
+    "url": "/assets/portfolio/باركود/باركود.png"
+  },
+  {
+    "id": "بور بونت/ashyaa-ghyrt-alaalm-dwn-an-nntbh (1).pptx",
+    "section": "بور بونت",
+    "name": "ashyaa-ghyrt-alaalm-dwn-an-nntbh (1).pptx",
+    "ext": "pptx",
+    "kind": "document",
+    "size": 11645244,
+    "url": "/assets/portfolio/بور بونت/ashyaa-ghyrt-alaalm-dwn-an-nntbh (1).pptx"
+  },
+  {
+    "id": "بور بونت/أشياء غيّرت العالم دون أن ننتبه.pptx",
+    "section": "بور بونت",
+    "name": "أشياء غيّرت العالم دون أن ننتبه.pptx",
+    "ext": "pptx",
+    "kind": "document",
+    "size": 5383460,
+    "url": "/assets/portfolio/بور بونت/أشياء غيّرت العالم دون أن ننتبه.pptx"
+  },
+  {
+    "id": "بور بونت/البتراء.pdf",
+    "section": "بور بونت",
+    "name": "البتراء.pdf",
+    "ext": "pdf",
+    "kind": "document",
+    "size": 2936769,
+    "url": "/assets/portfolio/بور بونت/البتراء.pdf"
+  },
+  {
+    "id": "بور بونت/البتراء.pptx",
+    "section": "بور بونت",
+    "name": "البتراء.pptx",
+    "ext": "pptx",
+    "kind": "document",
+    "size": 5788475,
+    "url": "/assets/portfolio/بور بونت/البتراء.pptx"
+  },
+  {
+    "id": "بور بونت/البحر الميت.pdf",
+    "section": "بور بونت",
+    "name": "البحر الميت.pdf",
+    "ext": "pdf",
+    "kind": "document",
+    "size": 2333566,
+    "url": "/assets/portfolio/بور بونت/البحر الميت.pdf"
+  },
+  {
+    "id": "بور بونت/البحر الميت.pptx",
+    "section": "بور بونت",
+    "name": "البحر الميت.pptx",
+    "ext": "pptx",
+    "kind": "document",
+    "size": 4336525,
+    "url": "/assets/portfolio/بور بونت/البحر الميت.pptx"
+  },
+  {
+    "id": "بور بونت/لندن.pdf",
+    "section": "بور بونت",
+    "name": "لندن.pdf",
+    "ext": "pdf",
+    "kind": "document",
+    "size": 6158508,
+    "url": "/assets/portfolio/بور بونت/لندن.pdf"
+  },
+  {
+    "id": "بور بونت/لندن.pptx",
+    "section": "بور بونت",
+    "name": "لندن.pptx",
+    "ext": "pptx",
+    "kind": "document",
+    "size": 10566661,
+    "url": "/assets/portfolio/بور بونت/لندن.pptx"
+  },
+  {
+    "id": "خطة ترويجية/خطة ترويجية.docx",
+    "section": "خطة ترويجية",
+    "name": "خطة ترويجية.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 45308,
+    "url": "/assets/portfolio/خطة ترويجية/خطة ترويجية.docx"
+  },
+  {
+    "id": "رابط الصفحة/رابط الصفحة.docx",
+    "section": "رابط الصفحة",
+    "name": "رابط الصفحة.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 6546,
+    "url": "/assets/portfolio/رابط الصفحة/رابط الصفحة.docx"
+  },
+  {
+    "id": "صوت/ElevenLabs_2026-11-01T08_41_44_Spuds Oxley - Grandpa _pvc_sp76_s83_sb85_v4.mp3",
+    "section": "صوت",
+    "name": "ElevenLabs_2026-11-01T08_41_44_Spuds Oxley - Grandpa _pvc_sp76_s83_sb85_v4.mp3",
+    "ext": "mp3",
+    "kind": "audio",
+    "size": 383487,
+    "url": "/assets/portfolio/صوت/ElevenLabs_2026-11-01T08_41_44_Spuds Oxley - Grandpa _pvc_sp76_s83_sb85_v4.mp3"
+  },
+  {
+    "id": "صوت/توليد صوت.mp3",
+    "section": "صوت",
+    "name": "توليد صوت.mp3",
+    "ext": "mp3",
+    "kind": "audio",
+    "size": 675640,
+    "url": "/assets/portfolio/صوت/توليد صوت.mp3"
+  },
+  {
+    "id": "صوت/شعر صوتي.mp3",
+    "section": "صوت",
+    "name": "شعر صوتي.mp3",
+    "ext": "mp3",
+    "kind": "audio",
+    "size": 625005,
+    "url": "/assets/portfolio/صوت/شعر صوتي.mp3"
+  },
+  {
+    "id": "صور/1792997739039_wqu7qc.webp",
+    "section": "صور",
+    "name": "1792997739039_wqu7qc.webp",
+    "ext": "webp",
+    "kind": "image",
+    "size": 44892,
+    "url": "/assets/portfolio/صور/1792997739039_wqu7qc.webp"
+  },
+  {
+    "id": "صور/1792998983060_pqhdl3 (1).webp",
+    "section": "صور",
+    "name": "1792998983060_pqhdl3 (1).webp",
+    "ext": "webp",
+    "kind": "image",
+    "size": 145184,
+    "url": "/assets/portfolio/صور/1792998983060_pqhdl3 (1).webp"
+  },
+  {
+    "id": "صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg",
+    "section": "صور",
+    "name": "7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 54671,
+    "url": "/assets/portfolio/صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg"
+  },
+  {
+    "id": "صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (2).jpg",
+    "section": "صور",
+    "name": "7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (2).jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 158956,
+    "url": "/assets/portfolio/صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (2).jpg"
+  },
+  {
+    "id": "صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpeg",
+    "section": "صور",
+    "name": "7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 523146,
+    "url": "/assets/portfolio/صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpeg"
+  },
+  {
+    "id": "صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 120117,
+    "url": "/assets/portfolio/صور/7ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG-20261025-WA0001.jpg",
+    "section": "صور",
+    "name": "IMG-20261025-WA0001.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 123785,
+    "url": "/assets/portfolio/صور/IMG-20261025-WA0001.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٥٢١٥٦_7837ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٥٢١٥٦_7837ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 140221,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٥٢١٥٦_7837ac8c4d2-5b7d-450b-a372-2be5a61cc6d4 (1).jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٥٢٨٥٨_1327ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٥٢٨٥٨_1327ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 137582,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٥٢٨٥٨_1327ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٥٣٣٠٧_6767ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٥٣٣٠٧_6767ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 103034,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٥٣٣٠٧_6767ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٦١٣٠٨_5567ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٦١٣٠٨_5567ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 152221,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٦١٣٠٨_5567ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٦٣٢٠٢_8907ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٦٣٢٠٢_8907ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 188856,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٦٣٢٠٢_8907ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٦٥٠٢٩_4787ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٦٥٠٢٩_4787ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 96609,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٦٥٠٢٩_4787ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/IMG_٢٠٢٦١٠٢٦_١٦٥٦٣٦_4177ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "section": "صور",
+    "name": "IMG_٢٠٢٦١٠٢٦_١٦٥٦٣٦_4177ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 115487,
+    "url": "/assets/portfolio/صور/IMG_٢٠٢٦١٠٢٦_١٦٥٦٣٦_4177ac8c4d2-5b7d-450b-a372-2be5a61cc6d4.jpg"
+  },
+  {
+    "id": "صور/Shoe_cleaning_spray_poster_design_2K_20261025124728.jpg",
+    "section": "صور",
+    "name": "Shoe_cleaning_spray_poster_design_2K_20261025124728.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 3340479,
+    "url": "/assets/portfolio/صور/Shoe_cleaning_spray_poster_design_2K_20261025124728.jpg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-02 at 9.19.01 AM.jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-02 at 9.19.01 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 191851,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-02 at 9.19.01 AM.jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-05 at 9.02.23 AM (1).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-05 at 9.02.23 AM (1).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 175545,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-05 at 9.02.23 AM (1).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-05 at 9.02.23 AM.jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-05 at 9.02.23 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 258903,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-05 at 9.02.23 AM.jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.36 AM (1).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.36 AM (1).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 212691,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.36 AM (1).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.36 AM.jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.36 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 193971,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.36 AM.jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (1).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM (1).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 119889,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (1).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (2).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM (2).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 140978,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (2).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (3).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM (3).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 123939,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (3).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (4).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM (4).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 145510,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (4).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (5).jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM (5).jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 69404,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM (5).jpeg"
+  },
+  {
+    "id": "صور/WhatsApp Image 2026-11-08 at 8.48.37 AM.jpeg",
+    "section": "صور",
+    "name": "WhatsApp Image 2026-11-08 at 8.48.37 AM.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 108893,
+    "url": "/assets/portfolio/صور/WhatsApp Image 2026-11-08 at 8.48.37 AM.jpeg"
+  },
+  {
+    "id": "صور/anime.png",
+    "section": "صور",
+    "name": "anime.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2637422,
+    "url": "/assets/portfolio/صور/anime.png"
+  },
+  {
+    "id": "صور/birdseyevew.png",
+    "section": "صور",
+    "name": "birdseyevew.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2912786,
+    "url": "/assets/portfolio/صور/birdseyevew.png"
+  },
+  {
+    "id": "صور/hd.png",
+    "section": "صور",
+    "name": "hd.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2368131,
+    "url": "/assets/portfolio/صور/hd.png"
+  },
+  {
+    "id": "صور/neonad.png",
+    "section": "صور",
+    "name": "neonad.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2408735,
+    "url": "/assets/portfolio/صور/neonad.png"
+  },
+  {
+    "id": "صور/premiumshowcase (بدي مقاس الصورة 1.1 ).png",
+    "section": "صور",
+    "name": "premiumshowcase (بدي مقاس الصورة 1.1 ).png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2428376,
+    "url": "/assets/portfolio/صور/premiumshowcase (بدي مقاس الصورة 1.1 ).png"
+  },
+  {
+    "id": "صور/premiumshowcase.png",
+    "section": "صور",
+    "name": "premiumshowcase.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2495182,
+    "url": "/assets/portfolio/صور/premiumshowcase.png"
+  },
+  {
+    "id": "صور/أثر شاات.png",
+    "section": "صور",
+    "name": "أثر شاات.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1491458,
+    "url": "/assets/portfolio/صور/أثر شاات.png"
+  },
+  {
+    "id": "صور/ارينا 2.webp",
+    "section": "صور",
+    "name": "ارينا 2.webp",
+    "ext": "webp",
+    "kind": "image",
+    "size": 1839310,
+    "url": "/assets/portfolio/صور/ارينا 2.webp"
+  },
+  {
+    "id": "صور/ارينا ديزاين.png",
+    "section": "صور",
+    "name": "ارينا ديزاين.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2216859,
+    "url": "/assets/portfolio/صور/ارينا ديزاين.png"
+  },
+  {
+    "id": "صور/ارينا.webp",
+    "section": "صور",
+    "name": "ارينا.webp",
+    "ext": "webp",
+    "kind": "image",
+    "size": 1266720,
+    "url": "/assets/portfolio/صور/ارينا.webp"
+  },
+  {
+    "id": "صور/بدون طاقية.webp",
+    "section": "صور",
+    "name": "بدون طاقية.webp",
+    "ext": "webp",
+    "kind": "image",
+    "size": 41650,
+    "url": "/assets/portfolio/صور/بدون طاقية.webp"
+  },
+  {
+    "id": "صور/بطاقة تعريفية جاهزه.jpeg",
+    "section": "صور",
+    "name": "بطاقة تعريفية جاهزه.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 323399,
+    "url": "/assets/portfolio/صور/بطاقة تعريفية جاهزه.jpeg"
+  },
+  {
+    "id": "صور/جيمي.png",
+    "section": "صور",
+    "name": "جيمي.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1988103,
+    "url": "/assets/portfolio/صور/جيمي.png"
+  },
+  {
+    "id": "صور/جيميني لوجو.jpg",
+    "section": "صور",
+    "name": "جيميني لوجو.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 91337,
+    "url": "/assets/portfolio/صور/جيميني لوجو.jpg"
+  },
+  {
+    "id": "صور/ديكور معهد.png",
+    "section": "صور",
+    "name": "ديكور معهد.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2057961,
+    "url": "/assets/portfolio/صور/ديكور معهد.png"
+  },
+  {
+    "id": "صور/ديكور مكتب.jpg",
+    "section": "صور",
+    "name": "ديكور مكتب.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 758867,
+    "url": "/assets/portfolio/صور/ديكور مكتب.jpg"
+  },
+  {
+    "id": "صور/رسالة ترحيبية.png",
+    "section": "صور",
+    "name": "رسالة ترحيبية.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 238679,
+    "url": "/assets/portfolio/صور/رسالة ترحيبية.png"
+  },
+  {
+    "id": "صور/سكرين الغلاف.png",
+    "section": "صور",
+    "name": "سكرين الغلاف.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1739763,
+    "url": "/assets/portfolio/صور/سكرين الغلاف.png"
+  },
+  {
+    "id": "صور/شات جيبي تي.jpg",
+    "section": "صور",
+    "name": "شات جيبي تي.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 159549,
+    "url": "/assets/portfolio/صور/شات جيبي تي.jpg"
+  },
+  {
+    "id": "صور/غلاف.jpeg",
+    "section": "صور",
+    "name": "غلاف.jpeg",
+    "ext": "jpeg",
+    "kind": "image",
+    "size": 308000,
+    "url": "/assets/portfolio/صور/غلاف.jpeg"
+  },
+  {
+    "id": "صور/لوجو جيمني.jpg",
+    "section": "صور",
+    "name": "لوجو جيمني.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 92673,
+    "url": "/assets/portfolio/صور/لوجو جيمني.jpg"
+  },
+  {
+    "id": "صور/لوجو فلو.jpg",
+    "section": "صور",
+    "name": "لوجو فلو.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 1269028,
+    "url": "/assets/portfolio/صور/لوجو فلو.jpg"
+  },
+  {
+    "id": "صور/لوجو مشروع أثر شات.png",
+    "section": "صور",
+    "name": "لوجو مشروع أثر شات.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1425365,
+    "url": "/assets/portfolio/صور/لوجو مشروع أثر شات.png"
+  },
+  {
+    "id": "صور/مشهد سنمائي.png",
+    "section": "صور",
+    "name": "مشهد سنمائي.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2183857,
+    "url": "/assets/portfolio/صور/مشهد سنمائي.png"
+  },
+  {
+    "id": "صور/منتج.jpg",
+    "section": "صور",
+    "name": "منتج.jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 3421670,
+    "url": "/assets/portfolio/صور/منتج.jpg"
+  },
+  {
+    "id": "فكرة المشروع/اسم المشروع.docx",
+    "section": "فكرة المشروع",
+    "name": "اسم المشروع.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 147562,
+    "url": "/assets/portfolio/فكرة المشروع/اسم المشروع.docx"
+  },
+  {
+    "id": "فكرة المشروع/اعملي فقرة صغيرة عن اهمية فيتامين د _مع نقاط رئيس.._.docx",
+    "section": "فكرة المشروع",
+    "name": "اعملي فقرة صغيرة عن اهمية فيتامين د _مع نقاط رئيس.._.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 3121873,
+    "url": "/assets/portfolio/فكرة المشروع/اعملي فقرة صغيرة عن اهمية فيتامين د _مع نقاط رئيس.._.docx"
+  },
+  {
+    "id": "فكرة المشروع/امر الشات.docx",
+    "section": "فكرة المشروع",
+    "name": "امر الشات.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 7265,
+    "url": "/assets/portfolio/فكرة المشروع/امر الشات.docx"
+  },
+  {
+    "id": "فكرة المشروع/نتيجة 1.docx",
+    "section": "فكرة المشروع",
+    "name": "نتيجة 1.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 14548,
+    "url": "/assets/portfolio/فكرة المشروع/نتيجة 1.docx"
+  },
+  {
+    "id": "فكرة المشروع/نتيجة 2.docx",
+    "section": "فكرة المشروع",
+    "name": "نتيجة 2.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 705956,
+    "url": "/assets/portfolio/فكرة المشروع/نتيجة 2.docx"
+  },
+  {
+    "id": "فكرة المشروع/نسخة من امر الشات.docx",
+    "section": "فكرة المشروع",
+    "name": "نسخة من امر الشات.docx",
+    "ext": "docx",
+    "kind": "document",
+    "size": 7265,
+    "url": "/assets/portfolio/فكرة المشروع/نسخة من امر الشات.docx"
+  },
+  {
+    "id": "فيديو/Man_carries_chicken_into_shop_45f9197c.mp4",
+    "section": "فيديو",
+    "name": "Man_carries_chicken_into_shop_45f9197c.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 3836525,
+    "url": "/assets/portfolio/فيديو/Man_carries_chicken_into_shop_45f9197c.mp4"
+  },
+  {
+    "id": "فيديو/Man_cleaning_shoe_with_spray_20261025123614.mp4",
+    "section": "فيديو",
+    "name": "Man_cleaning_shoe_with_spray_20261025123614.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 3432051,
+    "url": "/assets/portfolio/فيديو/Man_cleaning_shoe_with_spray_20261025123614.mp4"
+  },
+  {
+    "id": "فيديو/Woman_speaking_in_vocational_cla…_b4de12cc.mp4",
+    "section": "فيديو",
+    "name": "Woman_speaking_in_vocational_cla…_b4de12cc.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 1906521,
+    "url": "/assets/portfolio/فيديو/Woman_speaking_in_vocational_cla…_b4de12cc.mp4"
+  },
+  {
+    "id": "فيديو/Young_man_holding_spray_bottle_20261025125835.mp4",
+    "section": "فيديو",
+    "name": "Young_man_holding_spray_bottle_20261025125835.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 1558411,
+    "url": "/assets/portfolio/فيديو/Young_man_holding_spray_bottle_20261025125835.mp4"
+  },
+  {
+    "id": "فيديو/إعلان ناصع لحماية الأحذية البيضاء.png",
+    "section": "فيديو",
+    "name": "إعلان ناصع لحماية الأحذية البيضاء.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 2463912,
+    "url": "/assets/portfolio/فيديو/إعلان ناصع لحماية الأحذية البيضاء.png"
+  },
+  {
+    "id": "فيديو/ريل.mp4",
+    "section": "فيديو",
+    "name": "ريل.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 2256443,
+    "url": "/assets/portfolio/فيديو/ريل.mp4"
+  },
+  {
+    "id": "فيديو/ريلز 2.mp4",
+    "section": "فيديو",
+    "name": "ريلز 2.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 2064144,
+    "url": "/assets/portfolio/فيديو/ريلز 2.mp4"
+  },
+  {
+    "id": "فيديو/زيارة_جامع_الشيخ_زايد_وروح_الطمأنينة_والسكينة_10-28 10-07-11.mp4",
+    "section": "فيديو",
+    "name": "زيارة_جامع_الشيخ_زايد_وروح_الطمأنينة_والسكينة_10-28 10-07-11.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 3564132,
+    "url": "/assets/portfolio/فيديو/زيارة_جامع_الشيخ_زايد_وروح_الطمأنينة_والسكينة_10-28 10-07-11.mp4"
+  },
+  {
+    "id": "فيديو/شخصية افتار .jpg",
+    "section": "فيديو",
+    "name": "شخصية افتار .jpg",
+    "ext": "jpg",
+    "kind": "image",
+    "size": 551029,
+    "url": "/assets/portfolio/فيديو/شخصية افتار .jpg"
+  },
+  {
+    "id": "فيديو/صورة شات جيبي تي.png",
+    "section": "فيديو",
+    "name": "صورة شات جيبي تي.png",
+    "ext": "png",
+    "kind": "image",
+    "size": 1753718,
+    "url": "/assets/portfolio/فيديو/صورة شات جيبي تي.png"
+  },
+  {
+    "id": "فيديو/فيديو افتار.mp4",
+    "section": "فيديو",
+    "name": "فيديو افتار.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 1059919,
+    "url": "/assets/portfolio/فيديو/فيديو افتار.mp4"
+  },
+  {
+    "id": "فيديو/فيديو المشروع.mp4",
+    "section": "فيديو",
+    "name": "فيديو المشروع.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 2037680,
+    "url": "/assets/portfolio/فيديو/فيديو المشروع.mp4"
+  },
+  {
+    "id": "فيديو/فيديو جاهز.mp4",
+    "section": "فيديو",
+    "name": "فيديو جاهز.mp4",
+    "ext": "mp4",
+    "kind": "video",
+    "size": 5245280,
+    "url": "/assets/portfolio/فيديو/فيديو جاهز.mp4"
+  }
+]
